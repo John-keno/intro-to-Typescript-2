@@ -1,0 +1,13 @@
+{
+  "name": "intro-to-typescript-2",
+  "version": "1.0.0",
+  "description": "A demo Todo app showing usage basis of Typescript",
+  "main": "index.ts",
+  "scripts": {
+    "start": "tsc && node ./dist/index.js",
+    "dev": "tsc -w",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "John Keno Iweh",
+  "license": "ISC"
+}
